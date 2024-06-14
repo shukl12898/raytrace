@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "__config": "cpp",
+        "__debug": "cpp",
+        "__threading_support": "cpp",
+        "__verbose_abort": "cpp",
+        "atomic": "cpp",
+        "charconv": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "cwchar": "cpp",
+        "exception": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "stdexcept": "cpp",
+        "tuple": "cpp",
+        "typeinfo": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    }
+}
